@@ -1,4 +1,4 @@
-# Python_.Analysing-and-Tracking-the-Sentiment-and-Topics-on-Social-Media
+# Python: Analysing and Tracking the Sentiment and Topics on Social Media - Topic: Digital Nomad
 
 ## Background
 Social media is the giant treasure trove containing massive information which is collectively
