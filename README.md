@@ -20,3 +20,20 @@ also comments from other users.
 In addition, the created timestamp of each submission and comment is recorded. In Reddit
 submission, the score records the number of upvotes for the submission that represents the
 submission is recognised by other users.
+
+## Full Report Structure
+1. Introduction 
+2. Data Collection
+3. Summary Statistics 
+4. Data Pre-processing and Exploration 
+5. Analysis Approach
+   - Sentiment Analysis
+     - Count Approach
+     - Vader Approach
+   - Topic Modeling
+6. Analysis Insights
+   - Overall Sentiment Insights
+   - Topic Modeling Insights 
+7. Conclusion
+
+The full report is uploaded in pdf format.
